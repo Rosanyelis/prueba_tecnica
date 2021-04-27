@@ -1,5 +1,9 @@
 # prueba
 
+## Clonar el proyecto
+```
+solo copie la url de github del proyecto, preferiblemente la https
+```
 ## Project setup
 ```
 npm install
